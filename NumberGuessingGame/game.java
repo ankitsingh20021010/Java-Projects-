@@ -2,7 +2,7 @@
     import java.util.*;
     public class game {
         public static void main(String[] args){
-            Random rand=new Random();
+            Random rand=new Random(); 
             Scanner sc=new Scanner(System.in);
             int num=rand.nextInt(11);
         int i;
